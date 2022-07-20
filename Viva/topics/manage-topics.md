@@ -62,6 +62,8 @@ Knowledge managers help to guide discovered topics through the various topic lif
 To manage topics in the topic center, you need to:
 - Have a Viva Topics license.
 
+- Have license that includes Exchange Online.
+
 - Have the [**Who can manage topics**](./topic-experiences-user-permissions.md) permission. Knowledge admins can give users this permission in the Viva Topics topic permissions settings. 
 
 You will not be able to view the **Manage topics** page in the topic center unless you have the **Who can manage topics** permission.
